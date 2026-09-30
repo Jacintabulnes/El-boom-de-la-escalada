@@ -1,5 +1,4 @@
 # Documentación base PISA — Evolución histórica de Chile
-# Documentación base PISA — Evolución histórica de Chile
 
 ## Descripción
 Este trabajo documenta el proceso de preparación y limpieza de una base de datos destinada a analizar la evolución histórica del desempeño lector de Chile en PISA.
