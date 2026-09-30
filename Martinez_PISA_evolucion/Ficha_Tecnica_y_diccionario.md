@@ -32,7 +32,6 @@ El alcance de la base es descriptivo y temporal. Permite observar cómo han camb
 
 PISA evalúa a estudiantes de 15 años, por lo que los resultados no deben interpretarse como una medición de la comprensión lectora de todos los niños o estudiantes chilenos.
 ## Características de los datos
-## Características de los datos
 
 La base limpia contiene ocho observaciones y seis variables. Cada fila corresponde a un ciclo de PISA para Chile y cada columna representa un indicador.
 
@@ -43,7 +42,6 @@ Los porcentajes se almacenaron como valores numéricos en una escala de 0 a 100 
 Los nombres de las variables fueron estandarizados utilizando minúsculas y guiones bajos para facilitar su utilización mediante herramientas de análisis como Pandas.
 
 La estructura final permite realizar comparaciones entre ciclos, calcular variaciones y construir visualizaciones sobre la evolución histórica del desempeño lector de Chile.
-## Otras observaciones
 ## Otras observaciones
 
 La serie no debe interpretarse como una medición anual, ya que PISA se realiza por ciclos y los intervalos entre las observaciones no son siempre iguales.
